@@ -19,6 +19,7 @@ Beemafy is a Java-based application designed to bridge the gap between patients,
 ## 📂 Project Structure
 - `src/main/java`: Contains the core logic and controller classes.
 - `src/main/resources`: FXML files for the UI and CSS for styling.
+- File Storage: Data is stored in persistent .txt files within the project directory.
 
 ## 👨‍💻 My Contribution
 As the **Lead Developer**, I was responsible for:
